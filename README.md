@@ -1,57 +1,62 @@
-🌸 Iris Dataset Analysis
-## 📌 Overview
-This project explores and visualizes the Iris dataset using Python. The goal is to understand data structure, patterns, and relationships between features.
+# Task 1 ML AI Internship Project
+
+## Overview
+This project is part of my AI ML internship task. The goal is to perform basic data analysis and visualization on a real dataset and understand how data behaves using Python.
 
 ---
 
-## 📊 Dataset
-The Iris dataset contains 150 records of flower measurements with the following features:
-- Sepal Length
-- Sepal Width
-- Petal Length
-- Petal Width
-- Species (Setosa, Versicolor, Virginica)
+## Dataset
+- Name: Iris Dataset
+- Source: Built in seaborn dataset
+- Features:
+  - sepal_length
+  - sepal_width
+  - petal_length
+  - petal_width
+  - species
 
 ---
 
-## ⚙️ Steps Performed
-1. Loaded dataset using seaborn  
-2. Saved dataset as CSV file  
-3. Inspected data using:
-   - shape  
-   - columns  
-   - head()  
-   - info()  
-   - describe()  
-4. Created visualizations:
-   - Scatter plot  
-   - Histograms  
-   - Box plot   
+## Objectives
+- Load and explore dataset
+- Understand data distribution
+- Perform basic statistical analysis
+- Visualize relationships between features
+- Draw insights from data
 
 ---
 
-## 📈 Visualizations
-- Scatter plot shows relationship between features  
-- Histograms show data distribution  
-- Box plot helps detect outliers  
-- Pairplot shows overall feature relationships  
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
 ---
 
-## 🔍 Key Insights
-- Petal features clearly separate species  
-- Data is mostly well distributed  
-- Few minor outliers are present  
+## Workflow
+1. Import libraries
+2. Load dataset
+3. Data inspection
+4. Data visualization
+5. Basic insights
 
 ---
 
-## 🛠️ Tools Used
-- Python  
-- Pandas  
-- Seaborn  
-- Matplotlib  
+## Key Insights
+- Setosa species is clearly separable from others
+- Petal length and petal width show strong correlation
+- Virginica has the largest feature values overall
 
 ---
 
-## ✅ Conclusion
-This project provides a clear understanding of the dataset and prepares it for machine learning tasks like classification.
+## How to Run
+1. Clone repository
+2. Open notebook in Jupyter or VS Code
+3. Run all cells sequentially
+
+---
+
+## Author
+Sohaib Maan
+AI ML Internship Project
