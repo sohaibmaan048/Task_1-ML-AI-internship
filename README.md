@@ -1,13 +1,5 @@
 # Task 1 ML AI Internship Project
 
-# 📌 Overview
-# 📊 Dataset
-# ⚙️ Steps Performed
-# 📈 Visualizations
-# 🔍 Insights
-# 🛠️ Tools Used
-# ✅ Conclusion
-
 ## Overview
 This project is part of my AI ML internship task. The goal is to perform basic data analysis and visualization on a real dataset and understand how data behaves using Python.
 
